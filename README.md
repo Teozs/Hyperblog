@@ -7,10 +7,12 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 
 # En este curso vemos de todo:
 
--  Todos los comandos de Git
--     El flujo de trabajo en Github 
--     El verdadero amor por las buenas practicas 
--     Trucos muy locos del profesor
--     Las personalidades de Freddy
+- Todos los comandos de Git
+- El flujo de trabajo en Github 
+- El verdadero amor por las buenas practicas 
+- Trucos muy locos del profesor
+- Las personalidades de Freddy
 
-Y como amable recordatorio** Este redme.mc es un chiste**  Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso")
+
+
+Y como amable recordatorio** Este redme.mc es un chiste**  diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso")
